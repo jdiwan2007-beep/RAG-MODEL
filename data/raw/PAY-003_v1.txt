@@ -1,0 +1,8 @@
+ELECTROMART INDORE | INTERNAL USE ONLY | CONFIDENTIAL
+Doc ID: PAY-003 | Version: v1 | Department: Payments | Effective: 2025-03-01
+
+Payment Failure Handling
+
+If money is debited but the order is not confirmed, the amount is automatically refunded within 5 to 7 working days. Agents must not retry the payment on the customer's behalf. If no refund arrives after 7 working days, raise a payment ticket with the transaction ID.
+
+Page 1 of 1 | ElectroMart Retail Pvt Ltd | Do not distribute

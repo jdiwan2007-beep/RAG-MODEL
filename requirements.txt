@@ -1,0 +1,5 @@
+google-genai>=1.0
+faiss-cpu
+rank_bm25
+numpy
+streamlit

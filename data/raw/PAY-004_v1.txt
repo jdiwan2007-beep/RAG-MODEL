@@ -1,0 +1,8 @@
+ELECTROMART INDORE | INTERNAL USE ONLY | CONFIDENTIAL
+Doc ID: PAY-004 | Version: v1 | Department: Payments | Effective: 2025-12-01
+
+Card Data Handling SOP (PCI-DSS)
+
+Agents must never ask for, record or repeat full card numbers, CVV or PIN, in chat, email or call notes. If a customer shares card details, tell them not to, and delete the message where possible. Only the last 4 digits of a card may be referenced. Payments are completed only on the secure checkout page.
+
+Page 1 of 1 | ElectroMart Retail Pvt Ltd | Do not distribute

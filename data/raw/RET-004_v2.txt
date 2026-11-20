@@ -1,0 +1,15 @@
+ELECTROMART INDORE | INTERNAL USE ONLY | CONFIDENTIAL
+Doc ID: RET-004 | Version: v2 | Department: Returns | Effective: 2026-01-10
+
+Refund Timelines
+
+| Payment method | Refund time |
+|---|---|
+| UPI | 2 working days |
+| Debit/Credit card | 5-7 working days |
+| Net banking | 5 working days |
+| Store wallet | Instant |
+| Cash on delivery | 5 working days by bank transfer |
+Timelines start after the returned item passes inspection.
+
+Page 1 of 1 | ElectroMart Retail Pvt Ltd | Do not distribute

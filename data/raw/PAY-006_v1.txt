@@ -1,0 +1,8 @@
+ELECTROMART INDORE | INTERNAL USE ONLY | CONFIDENTIAL
+Doc ID: PAY-006 | Version: v1 | Department: Payments | Effective: 2025-12-01
+
+Refund Destination Rules
+
+Refunds go to the original payment method by default. Customers may choose the store wallet for an instant refund. Cash on delivery refunds are sent by bank transfer and need the account holder's name and IFSC; never accept bank details over chat without verifying the order.
+
+Page 1 of 1 | ElectroMart Retail Pvt Ltd | Do not distribute

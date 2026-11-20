@@ -1,0 +1,8 @@
+ELECTROMART INDORE | INTERNAL USE ONLY | CONFIDENTIAL
+Doc ID: ORD-003 | Version: v1 | Department: Orders | Effective: 2025-05-01
+
+Order Tracking FAQ
+
+Customers receive an SMS with a tracking link once the order is dispatched. Tracking updates every few hours. If tracking has not moved for 48 hours, escalate to the logistics team.
+
+Page 1 of 1 | ElectroMart Retail Pvt Ltd | Do not distribute

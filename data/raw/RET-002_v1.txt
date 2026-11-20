@@ -1,0 +1,8 @@
+ELECTROMART INDORE | INTERNAL USE ONLY | CONFIDENTIAL
+Doc ID: RET-002 | Version: v1 | Department: Returns | Effective: 2025-06-15
+
+Return Process SOP
+
+Step 1: Agent verifies the order ID and delivery date. Step 2: Agent checks the item is eligible under the current Return Policy. Step 3: Agent raises a return ticket and schedules pickup. Step 4: Warehouse inspects the item within 2 working days. Step 5: Refund is initiated if inspection passes.
+
+Page 1 of 1 | ElectroMart Retail Pvt Ltd | Do not distribute

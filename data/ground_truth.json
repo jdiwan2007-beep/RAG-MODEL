@@ -1,0 +1,362 @@
+[
+  {
+    "file": "RET-001_v1.txt",
+    "doc_id": "RET-001",
+    "version": "v1",
+    "department": "Returns",
+    "effective_date": "2024-01-01",
+    "title": "Return Policy",
+    "label": "outdated"
+  },
+  {
+    "file": "RET-001_v2.txt",
+    "doc_id": "RET-001",
+    "version": "v2",
+    "department": "Returns",
+    "effective_date": "2025-04-01",
+    "title": "Return Policy",
+    "label": "outdated"
+  },
+  {
+    "file": "RET-001_v3.txt",
+    "doc_id": "RET-001",
+    "version": "v3",
+    "department": "Returns",
+    "effective_date": "2026-02-01",
+    "title": "Return Policy",
+    "label": "current"
+  },
+  {
+    "file": "RET-002_v1.txt",
+    "doc_id": "RET-002",
+    "version": "v1",
+    "department": "Returns",
+    "effective_date": "2025-06-15",
+    "title": "Return Process SOP",
+    "label": "current"
+  },
+  {
+    "file": "RET-003_v1.txt",
+    "doc_id": "RET-003",
+    "version": "v1",
+    "department": "Returns",
+    "effective_date": "2025-06-15",
+    "title": "Non-Returnable Items",
+    "label": "current"
+  },
+  {
+    "file": "RET-004_v1.txt",
+    "doc_id": "RET-004",
+    "version": "v1",
+    "department": "Returns",
+    "effective_date": "2024-03-01",
+    "title": "Refund Timelines",
+    "label": "outdated"
+  },
+  {
+    "file": "RET-004_v2.txt",
+    "doc_id": "RET-004",
+    "version": "v2",
+    "department": "Returns",
+    "effective_date": "2026-01-10",
+    "title": "Refund Timelines",
+    "label": "current"
+  },
+  {
+    "file": "RET-005_v1.txt",
+    "doc_id": "RET-005",
+    "version": "v1",
+    "department": "Returns",
+    "effective_date": "2024-02-01",
+    "title": "Returns FAQ",
+    "label": "conflict"
+  },
+  {
+    "file": "RET-006_v1.txt",
+    "doc_id": "RET-006",
+    "version": "v1",
+    "department": "Returns",
+    "effective_date": "2025-09-01",
+    "title": "Dead on Arrival (DOA) Policy",
+    "label": "current"
+  },
+  {
+    "file": "WAR-001_v1.txt",
+    "doc_id": "WAR-001",
+    "version": "v1",
+    "department": "Warranty",
+    "effective_date": "2024-01-01",
+    "title": "Warranty Policy",
+    "label": "outdated"
+  },
+  {
+    "file": "WAR-001_v2.txt",
+    "doc_id": "WAR-001",
+    "version": "v2",
+    "department": "Warranty",
+    "effective_date": "2025-08-01",
+    "title": "Warranty Policy",
+    "label": "current"
+  },
+  {
+    "file": "WAR-002_v1.txt",
+    "doc_id": "WAR-002",
+    "version": "v1",
+    "department": "Warranty",
+    "effective_date": "2025-08-01",
+    "title": "Warranty Claim SOP",
+    "label": "current"
+  },
+  {
+    "file": "WAR-003_v1.txt",
+    "doc_id": "WAR-003",
+    "version": "v1",
+    "department": "Warranty",
+    "effective_date": "2025-10-01",
+    "title": "ElectroCare Extended Warranty",
+    "label": "current"
+  },
+  {
+    "file": "WAR-004_v1.txt",
+    "doc_id": "WAR-004",
+    "version": "v1",
+    "department": "Warranty",
+    "effective_date": "2025-08-01",
+    "title": "Warranty Exclusions",
+    "label": "current"
+  },
+  {
+    "file": "WAR-005_v1.txt",
+    "doc_id": "WAR-005",
+    "version": "v1",
+    "department": "Warranty",
+    "effective_date": "2024-02-01",
+    "title": "Warranty FAQ",
+    "label": "conflict"
+  },
+  {
+    "file": "WAR-006_v1.txt",
+    "doc_id": "WAR-006",
+    "version": "v1",
+    "department": "Warranty",
+    "effective_date": "2025-11-01",
+    "title": "Water and Liquid Damage Policy",
+    "label": "current"
+  },
+  {
+    "file": "ORD-001_v1.txt",
+    "doc_id": "ORD-001",
+    "version": "v1",
+    "department": "Orders",
+    "effective_date": "2025-05-01",
+    "title": "Order Cancellation Policy",
+    "label": "current"
+  },
+  {
+    "file": "ORD-002_v1.txt",
+    "doc_id": "ORD-002",
+    "version": "v1",
+    "department": "Orders",
+    "effective_date": "2025-05-01",
+    "title": "Order Modification",
+    "label": "current"
+  },
+  {
+    "file": "ORD-003_v1.txt",
+    "doc_id": "ORD-003",
+    "version": "v1",
+    "department": "Orders",
+    "effective_date": "2025-05-01",
+    "title": "Order Tracking FAQ",
+    "label": "current"
+  },
+  {
+    "file": "ORD-004_v1.txt",
+    "doc_id": "ORD-004",
+    "version": "v1",
+    "department": "Orders",
+    "effective_date": "2025-07-01",
+    "title": "Bulk Order SOP",
+    "label": "current"
+  },
+  {
+    "file": "ORD-006_v1.txt",
+    "doc_id": "ORD-006",
+    "version": "v1",
+    "department": "Orders",
+    "effective_date": "2024-02-01",
+    "title": "Cancellation FAQ",
+    "label": "conflict"
+  },
+  {
+    "file": "PAY-001_v1.txt",
+    "doc_id": "PAY-001",
+    "version": "v1",
+    "department": "Payments",
+    "effective_date": "2025-03-01",
+    "title": "Accepted Payment Methods",
+    "label": "current"
+  },
+  {
+    "file": "PAY-002_v1.txt",
+    "doc_id": "PAY-002",
+    "version": "v1",
+    "department": "Payments",
+    "effective_date": "2024-06-01",
+    "title": "EMI Policy",
+    "label": "outdated"
+  },
+  {
+    "file": "PAY-002_v2.txt",
+    "doc_id": "PAY-002",
+    "version": "v2",
+    "department": "Payments",
+    "effective_date": "2026-01-15",
+    "title": "EMI Policy",
+    "label": "current"
+  },
+  {
+    "file": "PAY-003_v1.txt",
+    "doc_id": "PAY-003",
+    "version": "v1",
+    "department": "Payments",
+    "effective_date": "2025-03-01",
+    "title": "Payment Failure Handling",
+    "label": "current"
+  },
+  {
+    "file": "PAY-004_v1.txt",
+    "doc_id": "PAY-004",
+    "version": "v1",
+    "department": "Payments",
+    "effective_date": "2025-12-01",
+    "title": "Card Data Handling SOP (PCI-DSS)",
+    "label": "current"
+  },
+  {
+    "file": "PAY-005_v1.txt",
+    "doc_id": "PAY-005",
+    "version": "v1",
+    "department": "Payments",
+    "effective_date": "2025-03-01",
+    "title": "GST Invoice Policy",
+    "label": "current"
+  },
+  {
+    "file": "PAY-006_v1.txt",
+    "doc_id": "PAY-006",
+    "version": "v1",
+    "department": "Payments",
+    "effective_date": "2025-12-01",
+    "title": "Refund Destination Rules",
+    "label": "current"
+  },
+  {
+    "file": "DEL-001_v1.txt",
+    "doc_id": "DEL-001",
+    "version": "v1",
+    "department": "Delivery",
+    "effective_date": "2024-05-01",
+    "title": "Delivery Timelines",
+    "label": "outdated"
+  },
+  {
+    "file": "DEL-001_v2.txt",
+    "doc_id": "DEL-001",
+    "version": "v2",
+    "department": "Delivery",
+    "effective_date": "2026-03-01",
+    "title": "Delivery Timelines",
+    "label": "current"
+  },
+  {
+    "file": "DEL-002_v1.txt",
+    "doc_id": "DEL-002",
+    "version": "v1",
+    "department": "Delivery",
+    "effective_date": "2025-04-01",
+    "title": "Delivery Charges",
+    "label": "current"
+  },
+  {
+    "file": "DEL-003_v1.txt",
+    "doc_id": "DEL-003",
+    "version": "v1",
+    "department": "Delivery",
+    "effective_date": "2025-04-01",
+    "title": "Failed Delivery SOP",
+    "label": "current"
+  },
+  {
+    "file": "DEL-004_v1.txt",
+    "doc_id": "DEL-004",
+    "version": "v1",
+    "department": "Delivery",
+    "effective_date": "2025-10-15",
+    "title": "Installation Service",
+    "label": "current"
+  },
+  {
+    "file": "DEL-005_v1.txt",
+    "doc_id": "DEL-005",
+    "version": "v1",
+    "department": "Delivery",
+    "effective_date": "2024-05-15",
+    "title": "Delivery FAQ",
+    "label": "conflict"
+  },
+  {
+    "file": "SUP-001_v1.txt",
+    "doc_id": "SUP-001",
+    "version": "v1",
+    "department": "Support",
+    "effective_date": "2025-02-01",
+    "title": "Support Hours",
+    "label": "current"
+  },
+  {
+    "file": "SUP-002_v1.txt",
+    "doc_id": "SUP-002",
+    "version": "v1",
+    "department": "Support",
+    "effective_date": "2025-02-01",
+    "title": "Escalation SOP",
+    "label": "current"
+  },
+  {
+    "file": "SUP-003_v1.txt",
+    "doc_id": "SUP-003",
+    "version": "v1",
+    "department": "Support",
+    "effective_date": "2025-12-01",
+    "title": "Customer Data Privacy SOP (DPDP Act)",
+    "label": "current"
+  },
+  {
+    "file": "SUP-004_v1.txt",
+    "doc_id": "SUP-004",
+    "version": "v1",
+    "department": "Support",
+    "effective_date": "2025-12-01",
+    "title": "Data Deletion Requests",
+    "label": "current"
+  },
+  {
+    "file": "SUP-005_v1.txt",
+    "doc_id": "SUP-005",
+    "version": "v1",
+    "department": "Support",
+    "effective_date": "2025-06-01",
+    "title": "Loyalty Programme",
+    "label": "current"
+  },
+  {
+    "file": "SUP-006_v1.txt",
+    "doc_id": "SUP-006",
+    "version": "v1",
+    "department": "Support",
+    "effective_date": "2025-06-01",
+    "title": "Store Locations and Pickup",
+    "label": "current"
+  }
+]

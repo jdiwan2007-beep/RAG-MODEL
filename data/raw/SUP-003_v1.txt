@@ -1,0 +1,8 @@
+ELECTROMART INDORE | INTERNAL USE ONLY | CONFIDENTIAL
+Doc ID: SUP-003 | Version: v1 | Department: Support | Effective: 2025-12-01
+
+Customer Data Privacy SOP (DPDP Act)
+
+Personal data such as phone number, address, email and Aadhaar must be used only for the order or service it was collected for. Agents must verify identity with the order ID and registered phone OTP before sharing order details. Never share one customer's data with another person. Do not store customer data in personal notes or messaging apps.
+
+Page 1 of 1 | ElectroMart Retail Pvt Ltd | Do not distribute

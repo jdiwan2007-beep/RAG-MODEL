@@ -1,0 +1,8 @@
+ELECTROMART INDORE | INTERNAL USE ONLY | CONFIDENTIAL
+Doc ID: ORD-002 | Version: v1 | Department: Orders | Effective: 2025-05-01
+
+Order Modification
+
+Delivery address can be changed only before dispatch and only within Indore pin codes. Product variant or colour changes require cancelling and re-ordering. Phone number changes must be verified by OTP.
+
+Page 1 of 1 | ElectroMart Retail Pvt Ltd | Do not distribute

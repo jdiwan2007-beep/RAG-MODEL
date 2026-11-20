@@ -1,0 +1,8 @@
+ELECTROMART INDORE | INTERNAL USE ONLY | CONFIDENTIAL
+Doc ID: ORD-004 | Version: v1 | Department: Orders | Effective: 2025-07-01
+
+Bulk Order SOP
+
+Orders of 10 or more units are bulk orders. Route them to the B2B desk. Bulk customers get a quotation within 1 working day, need a GST number for invoicing, and pay 50 percent in advance. Discounts above 5 percent need manager approval.
+
+Page 1 of 1 | ElectroMart Retail Pvt Ltd | Do not distribute
